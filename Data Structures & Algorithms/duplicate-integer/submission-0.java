@@ -1,3 +1,4 @@
+//Contains Duplicate 
 class Solution {
     public boolean hasDuplicate(int[] nums) {
        HashMap<Integer, Integer> map = new HashMap<>();
